@@ -1,5 +1,5 @@
 # Banking-Time-Deposits-Predictive-Model
-Classification Model for predicting the outcome on time deposit campaigns comparing Gradient Boosting, K Nearest Neighbor, Linear Regression models. 
+Modelo de Clasificación para predecir el resultado final del taget y (validar si el cliente contrata o no un deposito bancario)
 
 📊 Encuentra como tratar los datos para poder obtener una clasificación del target (contrato deposito bancario o no) 
 
